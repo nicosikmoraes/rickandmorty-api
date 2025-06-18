@@ -11,6 +11,12 @@ Project made in vue.js, it use a rick and morty api to show all the cast of the 
   - Css
   - Html
 
+## How to start
+  - Clone the repository `git clone <url>`
+  - Open a terminal at the root of the project
+  - Install the dependecies `npm install`
+  - Start the application `npm run dev`
+
 ## ScreenShots
 ![image](https://github.com/user-attachments/assets/b85e90d4-18ae-49f0-8234-80d2b2b08d53)
 ![image](https://github.com/user-attachments/assets/da458c1a-e5c4-475c-a3b4-4ddf93870063)
