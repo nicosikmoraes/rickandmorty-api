@@ -1,6 +1,12 @@
-# Projeto que usa uma api do rick and morty mostrando informações dos personagens
+# Rick and Morty API
+
+# Author: Nicolas Siqueira Moraes
+Project made in vue.js, it use a rick and morty api to show all the cast of the show. You can see informations of yours most loved characters and favorite them.
 
 # ScreenShots
-![image](https://github.com/user-attachments/assets/906c99ef-dc8e-4032-acec-960c9bd490a9)
-![image](https://github.com/user-attachments/assets/f57fb802-d7fa-4bf4-99b7-7e55e2337b39)
-![image](https://github.com/user-attachments/assets/fb958d78-5157-4c99-b9e8-219b07b03748)
+![image](https://github.com/user-attachments/assets/b85e90d4-18ae-49f0-8234-80d2b2b08d53)
+![image](https://github.com/user-attachments/assets/da458c1a-e5c4-475c-a3b4-4ddf93870063)
+![image](https://github.com/user-attachments/assets/4f69064c-c767-4178-a50e-375447ff6ac4)
+![image](https://github.com/user-attachments/assets/db427849-a83b-48d4-b66e-cd8202da2fb8)
+
+
