@@ -38,6 +38,7 @@ const apiStore = useApiStore()
   display: flex;
   flex-direction: column;
   align-items: center;
+  background-color: rgb(41, 39, 39);
 }
 
 .info {
